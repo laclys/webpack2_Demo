@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    width: 100px;
+    height: 100px;
+    /*background: red;*/
+    background: url(../img/test-img.jpg);
+    background-size: contain;
+}
+.flex{
+    display: flex;
+}
